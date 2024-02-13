@@ -1,0 +1,4 @@
+org\example\products\ProductsController.class
+org\example\ProductsApiApp.class
+org\example\products\Product.class
+org\example\products\ProductService.class

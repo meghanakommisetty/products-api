@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jan 24 04:12:02 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-018d-387c-d7bd-0000080ca1f0 
+on database directory memory:C:\Users\LENOVO\Downloads\products-api\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/LENOVO/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=C:\Users\LENOVO\Downloads\products-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

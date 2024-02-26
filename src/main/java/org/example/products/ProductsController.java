@@ -26,7 +26,7 @@ public class ProductsController {
         productservice.updateProduct(id, product);
   }
     @RequestMapping(method = RequestMethod.DELETE, value="/products/{id}")
-  public void deleteProduct(@RequestBody Product product,@PathVariable int id){
-        productservice.deleteProduct(id, product);
+  public void deleteProduct(@PathVariable int id){
+        productservice.deleteProduct(id);
     }
 }
